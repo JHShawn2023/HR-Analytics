@@ -59,6 +59,27 @@ This project presents a dynamic **HR Analytics Dashboard** built using **Power B
 
 ---
 
+## 🧪 SQL Test Report (PostgreSQL Validation)
+
+To ensure data accuracy and consistency between the Power BI dashboard and the original dataset, a set of **PostgreSQL test queries** were executed and documented.
+
+📝 A total of **11 tests were performed** covering:
+- KPI validations (Employee Count, Attrition Rate, Average Age, etc.)
+- Gender & Department-wise breakdowns
+- Crosstab analysis for Job Satisfaction
+- Attrition by age group and education field
+
+✅ **Test Result Summary:**
+- **Total Tests:** 11  
+- **Pass:** 11  
+- **Fail / Blocked / Not Executed:** 0
+
+📁 Detailed test documentation is available here:  
+[👉 View SQL_Test_Report.md](./SQL_Test_Report.md) *(or PDF)*
+
+These queries help validate and align backend logic with dashboard visuals.
+
+
 ## 🤝 Let’s Connect
 
 - 🔗 [LinkedIn – JH Shawn](https://www.linkedin.com/in/jh-shawn/)
