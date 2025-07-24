@@ -1,0 +1,36 @@
+# ✅ SQL Test Document – HR Analytics Dashboard
+
+**Client Name:**  
+**Report Name:** HR Analytics Dashboard  
+**Developer Name:**  
+**Tester Name:** Md. Jahid Hasan Shawn  
+**Project Manager:**  
+**Development Tool:** Power BI  
+
+---
+
+## 🔍 Test Summary
+
+| Test No. | Sheet Name                          | Query Description                     | Result | QA Remark     |
+|----------|--------------------------------------|----------------------------------------|--------|---------------|
+| 1        | KPI – Employee Count                 | Total employee count from table        | Pass   | Exact match   |
+| 2        | KPI – Attrition Count                | Employees where attrition = 'Yes'      | Pass   | Exact match   |
+| 3        | KPI – Attrition Rate                 | Calculated attrition %                | Pass   | Exact match   |
+| 4        | KPI – Active Employee                | Total - attrition                     | Pass   | Exact match   |
+| 5        | KPI – Average Age                    | Average age of employees              | Pass   | Exact match   |
+| 6        | Attrition by Gender                  | Group attrition count by gender       | Pass   | Exact match   |
+| 7        | Department-wise Attrition            | Count & % attrition by department     | Pass   | Exact match   |
+| 8        | No of Employee by Age Group          | Count by age_band & gender            | Pass   | Exact match   |
+| 9        | Education Field-wise Attrition       | Attrition count by education field    | Pass   | Exact match   |
+| 10       | Attrition Rate by Age Group & Gender | Grouped % attrition by age+gender     | Pass   | Exact match   |
+| 11       | Job Satisfaction Rating (Crosstab)   | Pivot table by job role satisfaction  | Pass   | Exact match   |
+
+---
+
+## ✅ Overall Result
+
+- **Total Tests:** 11  
+- **Passed:** 11  
+- **Failed / Blocked / Not Executed:** 0  
+- All SQL queries aligned with the dashboard metrics.
+
