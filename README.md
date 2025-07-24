@@ -59,6 +59,8 @@ This project presents a dynamic **HR Analytics Dashboard** built using **Power B
 
 ---
 
+
+
 ## 🧪 SQL Test Report (PostgreSQL Validation)
 
 To ensure data accuracy and consistency between the Power BI dashboard and the original dataset, a set of **PostgreSQL test queries** were executed and documented.
@@ -78,6 +80,8 @@ To ensure data accuracy and consistency between the Power BI dashboard and the o
 [👉 View SQL_Test_Report.md](./SQL_Test_Report.md) *(or PDF)*
 
 These queries help validate and align backend logic with dashboard visuals.
+
+
 
 
 ## 🤝 Let’s Connect
